@@ -46,8 +46,8 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Contact</template>
 
-    If you'd like to get in touch, please reach out to me by email. 
-    <a href="mailto: oleksander.turchyn@gmail.com" target="_blank" rel="noopener">email</a>
+    If you'd like to get in touch, please reach out to me by 
+    <a href="mailto: oleksander.turchyn@gmail.com" target="_blank" rel="noopener">email</a>.
   </WelcomeItem>
 
   <!-- <WelcomeItem>
