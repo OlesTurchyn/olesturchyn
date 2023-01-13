@@ -17,7 +17,7 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    font-size: large;
+    font-size:medium;
   }
 }
 
