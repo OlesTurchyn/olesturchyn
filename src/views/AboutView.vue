@@ -20,7 +20,7 @@
 
       <br>
 
-      Thank you for checkign out my site!
+      Thank you for checking out my site!
     </h3>
 
   </div>
