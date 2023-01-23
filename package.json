@@ -1,7 +1,6 @@
 {
   "name": "olesturchyn",
   "version": "0.0.0",
-  "homepage": "https://olesturchyn",
   "private": true,
   "scripts": {
     "dev": "vite",
