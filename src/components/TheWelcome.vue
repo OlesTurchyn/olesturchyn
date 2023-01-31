@@ -40,6 +40,16 @@ import SupportIcon from './icons/IconSupport.vue'
     
   </WelcomeItem>
 
+
+    <WelcomeItem>
+    <template #icon>
+      <SupportIcon />
+    </template>
+    <template #heading>Photography</template>
+    I love to learn and practice photography when I travel.   
+    <a href="https://olesturchyn.github.io/photography/" target="_blank" rel="noopener">Here</a> are some of my favourite photos and memories.
+  </WelcomeItem>
+
   <WelcomeItem>
     <template #icon>
       <CommunityIcon />
@@ -50,14 +60,5 @@ import SupportIcon from './icons/IconSupport.vue'
     <a href="mailto: oleksander.turchyn@gmail.com" target="_blank" rel="noopener">email</a>.
   </WelcomeItem>
 
-  <!-- <WelcomeItem>
-    <template #icon>
-      <SupportIcon />
-    </template>
-    <template #heading>Support Vue</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
-  </WelcomeItem> -->
 </template>
