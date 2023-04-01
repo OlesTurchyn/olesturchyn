@@ -17,7 +17,7 @@
         <li>Modern languages and frameworks: React, Java, Python, SQL, NoSQL</li>
         <li>Full stack web development</li>
         <li>Threat intelligence research and development</li>
-        <li>Strong team player with a customer-first mentality.</li>
+        <li>Strong team player with a customer-first mentality</li>
 
       </ul>
   
