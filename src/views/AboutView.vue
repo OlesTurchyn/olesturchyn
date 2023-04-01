@@ -1,26 +1,25 @@
 <template>
   <div class="about">
-    <h3>Hi, my name is Oles and I'm interested in Software Engineering, 
-      Cyber Security, and Business Intelligence. I aim to help
-      build solutions that can protect organizations and institutions from 
-      emerging threats.
+    <br />
+    <h3>Hi, my name is Oles, and I'm passionate about building software solutions that protect organizations from emerging threats. 
+      Whether it's cyber attacks, data breaches, or other security risks, I'd like to help.
 
       <br>
 
       <br>
-      I have internship experience in both the Public and Private sector where I've 
-      worked on threat intelligence research, full-stack web development, and IT Management.
+      With internship experience in both the public and private sectors, I've gained a wide range of skills, from threat intelligence research to full-stack web development and IT management. 
+      I'm constantly learning and growing, and I'm excited to apply my knowledge to new challenges.
       
       <br>
       
-      <br> I'm based in Canada, but love exploring the world and trying new things. 
-      Some of my hobbies include photography, alpine skiing, volleyball, and dance. 
+      <br> When I'm not working, I love to explore the world and try new things. Photography, alpine skiing, volleyball, and dance are just a few of my hobbies. 
+      And while I'm based in Canada, I'm always up for an adventure.
 
       <br>
 
       <br>
 
-      Thank you for checking out my site!
+      Thanks for stopping by my site! Let's connect and see how we can work together to make the world a safer place.
     </h3>
 
   </div>

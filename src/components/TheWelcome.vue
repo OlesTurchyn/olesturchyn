@@ -5,6 +5,9 @@ import ToolingIcon from './icons/IconTooling.vue'
 import EcosystemIcon from './icons/IconEcosystem.vue'
 import CommunityIcon from './icons/IconCommunity.vue'
 import SupportIcon from './icons/IconSupport.vue'
+
+
+
 </script>
 
 <template>
@@ -16,6 +19,15 @@ import SupportIcon from './icons/IconSupport.vue'
     <a href="https://olesturchyn.github.io/GeoTestVue/" target="_blank" rel="noopener">GeoTest.io</a>
     is a small web project that was built with the intention of 
     practicing some software engineering skills while studying geography.
+  </WelcomeItem>
+
+  <WelcomeItem>
+    <template #icon>
+      <SupportIcon />
+    </template>
+    <template #heading>Photography</template>
+    I love to learn and practice photography when I travel.   
+    <a href="https://olesturchyn.github.io/photography/" target="_blank" rel="noopener">Here</a> are some of my favourite photos and memories.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -41,14 +53,7 @@ import SupportIcon from './icons/IconSupport.vue'
   </WelcomeItem>
 
 
-    <WelcomeItem>
-    <template #icon>
-      <SupportIcon />
-    </template>
-    <template #heading>Photography</template>
-    I love to learn and practice photography when I travel.   
-    <a href="https://olesturchyn.github.io/photography/" target="_blank" rel="noopener">Here</a> are some of my favourite photos and memories.
-  </WelcomeItem>
+    
 
   <WelcomeItem>
     <template #icon>
@@ -59,6 +64,5 @@ import SupportIcon from './icons/IconSupport.vue'
     If you'd like to get in touch, please reach out to me by 
     <a href="mailto: oleksander.turchyn@gmail.com" target="_blank" rel="noopener">email</a>.
   </WelcomeItem>
-
 
 </template>
