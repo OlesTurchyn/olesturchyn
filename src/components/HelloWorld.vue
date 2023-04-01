@@ -89,7 +89,7 @@ const particlesLoaded = async (container) => {
             enable: true,
             outMode: 'bounce',
             random: false,
-            speed: 2,
+            speed: 1,
             straight: false,
           },
           number: {
@@ -97,7 +97,7 @@ const particlesLoaded = async (container) => {
               enable: true,
               area: 800,
             },
-            value: 10,
+            value: 15,
           },
           opacity: {
             value: 0.2,
