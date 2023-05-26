@@ -11,28 +11,13 @@ import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
-  <WelcomeItem>
-    <template #icon>
-      <DocumentationIcon />
-    </template>
-    <template #heading>Geography Project</template>
-    <a href="https://olesturchyn.github.io/GeoTestVue/" target="_blank" rel="noopener">GeoTest.io</a>
-    is a small web project that was built with the intention of 
-    practicing some software engineering skills while studying geography.
-  </WelcomeItem>
+ 
 
   <WelcomeItem>
     <template #icon>
-      <SupportIcon />
-    </template>
-    <template #heading>Photography</template>
-    I love to learn and practice photography when I travel.   
-    <a href="https://olesturchyn.github.io/photography/" target="_blank" rel="noopener">Here</a> are some of my favourite photos and memories.
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      <ToolingIcon />
+      <a href="https://github.com/OlesTurchyn">
+        <ToolingIcon />
+      </a>
     </template>
     <template #heading>GitHub</template>
 
@@ -43,7 +28,9 @@ import SupportIcon from './icons/IconSupport.vue'
 
   <WelcomeItem>
     <template #icon>
-      <EcosystemIcon />
+      <a href="https://www.linkedin.com/in/oleksander-turchyn/">
+        <EcosystemIcon />
+      </a>
     </template>
     <template #heading>Linkedin</template>
 
@@ -52,17 +39,27 @@ import SupportIcon from './icons/IconSupport.vue'
     
   </WelcomeItem>
 
-
-    
+  <WelcomeItem>
+    <template #icon>
+      <a href="https://olesturchyn.github.io/photography/">
+        <SupportIcon />
+      </a>
+    </template>
+    <template #heading>Photography</template>
+    I love to learn and practice photography when I travel.   
+    <a href="https://olesturchyn.github.io/photography/" target="_blank" rel="noopener">Here</a> are some of my favourite photos and memories.
+  </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
+    <a href="mailto:oturc030@uottawa.ca">
       <CommunityIcon />
+    </a>
     </template>
     <template #heading>Contact</template>
 
     If you'd like to get in touch, please reach out to me by 
-    <a href="mailto: oleksander.turchyn@gmail.com" target="_blank" rel="noopener">email</a>.
+    <a href="mailto: oturc030@uottawa.ca" target="_blank" rel="noopener">email</a>.
   </WelcomeItem>
 
 </template>

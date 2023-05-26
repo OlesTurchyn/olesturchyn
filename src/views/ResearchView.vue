@@ -2,26 +2,21 @@
     <div class="research">
       <br />
       
-      <h2>Interests</h2>
+      <h2 style="color: white;">Research Interests</h2>
       <ul>
-        <li>Predictive analytics for risk identification</li>
-        <li>Geospatial intelligence</li>
-        <li>Data visualization</li>
+        <li>Graph Mining and Analytics</li>
+        <li>Edge computing for point cloud data cleaning and calibration</li>
       </ul>
 
       <br />
 
-      <h2>Skills</h2>
+      <h2 style="color: white;">Skills</h2>
       <ul>
-        <li>Problem solving and critical thinking</li>
-        <li>Modern languages and frameworks: React, Java, Python, SQL, NoSQL</li>
-        <li>Full stack web development</li>
+        <li>Full stack web development (Node.js, Express.js, MongoDB, Vue.js)</li>
         <li>Threat intelligence research and development</li>
-        <li>Strong team player with a customer-first mentality</li>
-
+        <li>Cyber incident handling and response</li>
+        <li>Customer-first mentality</li>
       </ul>
-  
-  
     </div>
   </template>
   
