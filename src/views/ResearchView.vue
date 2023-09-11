@@ -12,8 +12,9 @@
 
       <h2 style="color: white;">Skills</h2>
       <ul>
-        <li>Full stack web development (Node.js, Express.js, MongoDB, Vue.js)</li>
+        <li>Full stack web development (Node.js, Express.js, MongoDB, Vue.js/React.js)</li>
         <li>Threat intelligence research and development</li>
+        <li>AWS Operational Reliability and Development (ECS, Lambda, RDS, SSM)</li>
         <li>Cyber incident handling and response</li>
         <li>Customer-first mentality</li>
       </ul>
