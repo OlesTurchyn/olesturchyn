@@ -2,9 +2,10 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 import Particles from "vue3-particles";
+import VueGtag from "vue-gtag";
+import TheWelcome from './components/TheWelcome.vue'
 
 import './assets/main.css'
-
 
 // FIREBASE SDK ANALTICS
 import * as firebase from "firebase/app";
@@ -23,9 +24,14 @@ const firebaseConfig = {
   measurementId: "G-QJ64MMDB8L"
 };
 
-const app = createApp(App)
+
+const app = createApp(App);
 
 app.use(router)
+
+app.use(VueGtag, {
+    config: { id: "G-QJ64MMDB8L"}
+}, router)
 
 app.use(Particles)
 
