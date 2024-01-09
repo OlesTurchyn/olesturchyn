@@ -23,12 +23,6 @@ const firebaseConfig = {
   measurementId: "G-QJ64MMDB8L"
 };
 
-// Initialize Firebase
-const analytics = getAnalytics(app);
-
-firebase.initializeApp(firebaseConfig);
-firebase.analytics();
-
 const app = createApp(App)
 
 app.use(router)
