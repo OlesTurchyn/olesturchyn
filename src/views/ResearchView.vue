@@ -5,7 +5,7 @@
       <h2 style="color: white;">Research Interests</h2>
       <ul>
         <li>Graph Mining and Analytics</li>
-        <li>Edge computing for point cloud data cleaning and calibration</li>
+        <li>Machine learning for cyber security</li>
       </ul>
 
       <br />
@@ -13,9 +13,9 @@
       <h2 style="color: white;">Skills</h2>
       <ul>
         <li>Full stack web development (Node.js, Express.js, MongoDB, Vue.js/React.js)</li>
+        <li>Python, Java, JavaScript, and Go</li>
         <li>Threat intelligence research and development</li>
-        <li>AWS Operational Reliability and Development (ECS, Lambda, RDS, SSM)</li>
-        <li>Cyber incident handling and response</li>
+        <li>Cloud development and reliability (AWS & GCP)</li>
         <li>Customer-first mentality</li>
       </ul>
     </div>
