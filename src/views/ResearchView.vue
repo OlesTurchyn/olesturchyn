@@ -4,7 +4,7 @@
 
     <h2 style="color: white">Research Interests</h2>
     <ul>
-      <li>Geomatics and geospatial data mining</li>
+      <li>Geospatial Data Science</li>
       <li>
         Machine learning classification with convolutional neural networks
       </li>

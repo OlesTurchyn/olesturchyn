@@ -4,7 +4,7 @@
 
       <br/>
       <a href="https://kittyclassifier.web.app" target="_blank">
-        <h2 style="color: white;">Kitty Classifier AI</h2>
+        <h2>Kitty Classifier AI</h2>
       </a>
       <h4>Convolutional neural network for classifying cat breeds. Full stack machine learning project.
       </h4>
@@ -15,11 +15,26 @@
           <li>ML Ops</li>
         </ul>
       </small>
+
+      <br/>
+      <br/>
+      <a href="https://ottawacrimeanalysis.web.app/" target="_blank">
+        <h2>Ottawa Geographic Crime Analysis</h2>
+      </a>
+      <h4>Mapping crime patterns in Ottawa using publicly available geospatial data
+      </h4>
+      <small>
+        <ul class="point-list">
+          <li>Python</li>
+          <li>Vue.js</li>
+          <li>Geospatial Data Science</li>
+        </ul>
+      </small>
       
       <br/>
       <br/>
       <a href="https://olesturchyn.github.io/RANSAC-Point-Cloud-Plane-Detection/" target="_blank">
-        <h2 style="color: white;">RANSAC Point Cloud Plane Detection</h2>
+        <h2>RANSAC Point Cloud Plane Detection</h2>
       </a>
       <h4>Java implementation of the Random Sample Consensus (RANSAC) algorithm to detect dominant planes within a point cloud.
       </h4>
@@ -35,7 +50,7 @@
       <br/>
       <br/>
       <a href="https://olesturchyn.github.io/GeoTestVue/" target="_blank">
-        <h2 style="color: white;">GeoTest.io</h2>
+        <h2>GeoTest.io</h2>
       </a>
       <h4>In-progress geography game to help train geographic memory.</h4>
       <small>
@@ -61,6 +76,7 @@
     display: inline-block;
     list-style-type: none;
     padding: 0;
+    text-decoration:underline;
   }
 
   .point-list li {

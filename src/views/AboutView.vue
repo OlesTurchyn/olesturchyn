@@ -1,24 +1,23 @@
 <template>
   <div class="about">
     <br />
-    <h3>Hi, my name is Oleksander, but more personably, you can call me Oles. 
+    <h3>👋 Hi, my name is Oleksander.
 
       <br>
 
       <br>
-      I'm interested in building solutions that can protect organizations from emerging threats.
-      I have internship experience at Trend Micro, Nokia, and the Canadian Federal Government.
-      These internships have enabled me to explore my interests while helping to make organizational impact.
+      💻 I'm interested in building solutions that can protect organizations from emerging threats.
+      Through internship experience at Trend Micro, Nokia, and the Canadian Federal Government, I've been able to explore my interests while helping to make organizational impact.
       <br>
       
-      <br>Aside from work, I'm interested in photography, dance, skiing, research, and sailing.
+      <br>⛵ Aside from work, I'm interested in photography, dance, skiing, research, and sailing.
       
       
       <br>
 
       <br>
 
-      Thanks for stopping by my site! Please don't hesitate to reach out if we share any common interests, or if you'd like to work together.
+      📧 Thanks for stopping by my site! Please don't hesitate to reach out if we share any common interests, or if you'd like to work together.
     </h3>
 
   </div>

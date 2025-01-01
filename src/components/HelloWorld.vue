@@ -22,7 +22,7 @@ const particlesLoaded = async (container) => {
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      4th Year Computer Science Student at uOttawa
+      5th Year Computer Science Student at uOttawa
     </h3>
   </div>
 

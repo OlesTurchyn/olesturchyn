@@ -15,7 +15,9 @@ import WelcomeItem from './WelcomeItem.vue'
         <ToolingIcon />
       </a>
     </template>
-    <template #heading>GitHub</template>
+    <template #heading><a href="https://github.com/OlesTurchyn">
+        GitHub
+      </a></template>
 
     This project is managed and hosted on my
     <a href="https://github.com/OlesTurchyn" target="_blank" rel="noopener">GitHub</a> repo. Please check it out to 
@@ -28,7 +30,9 @@ import WelcomeItem from './WelcomeItem.vue'
         <EcosystemIcon />
       </a>
     </template>
-    <template #heading>Linkedin</template>
+    <template #heading> <a href="https://www.linkedin.com/in/oleksander-turchyn/">
+        Linkedin
+      </a></template>
 
     See my <a href="https://www.linkedin.com/in/oleksander-turchyn/" target="_blank" rel="noopener">Linkedin</a> 
     for more info about my work experience and education. 
@@ -37,22 +41,13 @@ import WelcomeItem from './WelcomeItem.vue'
 
   <WelcomeItem>
     <template #icon>
-      <a href="https://olesturchyn.github.io/photography/">
-        <SupportIcon />
-      </a>
-    </template>
-    <template #heading>Photography</template>
-    I love to learn and practice photography when I travel.   
-    <a href="https://olesturchyn.github.io/photography/" target="_blank" rel="noopener">Here</a> are some of my favourite photos and memories.
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
     <a href="mailto:oturc030@uottawa.ca">
       <CommunityIcon />
     </a>
     </template>
-    <template #heading>Contact</template>
+    <template #heading><a href="mailto:oturc030@uottawa.ca">
+      Contact
+    </a></template>
 
     If you'd like to get in touch, please reach out to me by 
     <a href="mailto: oturc030@uottawa.ca" target="_blank" rel="noopener">email</a>.
