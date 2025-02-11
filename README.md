@@ -1,6 +1,6 @@
-Hi, my name is Oleksander Turchyn.
+## Hi, my name is Oleksander Turchyn ⛵️
 
-Here are some of my projects. 
+I'm a computer science student interested in data engineering, web development, and cloud security. Here, you can find some of my projects. 
 
 Check out my [website](https://olesturchyn.com) to learn more about me. 
 
