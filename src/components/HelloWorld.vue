@@ -1,12 +1,11 @@
 <script setup>
-
 import { loadFull } from "tsparticles";
 defineProps({
   msg: {
     type: String,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 
 const particlesInit = async (engine) => {
   await loadFull(engine);
@@ -14,16 +13,12 @@ const particlesInit = async (engine) => {
 const particlesLoaded = async (container) => {
   console.log("Particles container loaded", container);
 };
-
-
 </script>
 
 <template>
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
-    <h3>
-      5th Year Computer Science Student at uOttawa
-    </h3>
+    <h3>Computer Science Graduate</h3>
   </div>
 
   <div>
@@ -114,8 +109,6 @@ const particlesLoaded = async (container) => {
       }"
     />
   </div>
-
-
 </template>
 
 <style scoped>
